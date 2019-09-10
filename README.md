@@ -6,5 +6,5 @@ Ideally, we hope that our neural networks learn fast from their errors, much lik
 
 Things to note about the network (or neuron, in this case):
 
-1. The cost function used is the quadratic cost function.
-2.
+1. The activation function used is the sigmoid function.
+2. The cost function used is the quadratic cost function.
