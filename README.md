@@ -11,6 +11,6 @@ Things to note about the network (or neuron, in this case):
 
 To run the code (in Termial or any other command line):
 1. Initialise the ``Network`` class:
-  - e.g. net = Network(0.6, 0.9, 300)
+  - e.g. ``net = Network(0.6, 0.9, 300)``
 2. call the ``train`` function:
-  - e.g. train(0.15)
+  - e.g. ``train(0.15)``
