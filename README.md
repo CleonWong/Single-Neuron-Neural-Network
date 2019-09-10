@@ -8,3 +8,9 @@ Things to note about the network (or neuron, in this case):
 
 1. The activation function used is the sigmoid function.
 2. The cost function used is the quadratic cost function.
+
+To run the code (in Termial or any other command line):
+1. Initialise the ``Network`` class:
+  - e.g. net = Network(0.6, 0.9, 300)
+2. call the ``train`` function:
+  - e.g. train(0.15)
